@@ -16,7 +16,3 @@ Download the zip file. In the project folder:
   npm install
   npm start
 ```
-
-## Authors
-
-- [@realtutorialspoint](https://www.github.com/realtutorialspoint)
